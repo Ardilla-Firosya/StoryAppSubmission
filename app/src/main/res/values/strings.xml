@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">List Story</string>
+    <string name="title_welcome_page">Welcome to Story App</string>
+    <string name="message_welcome_page">Best place to share life stories and share your journey experience!!</string>
+    <string name="login">Login</string>
+    <string name="signup">Register</string>
+    <string name="title_signup_page">Please complete your personal data!!</string>
+    <string name="name">Name</string>
+    <string name="email">Email\n</string>
+    <string name="password">Password</string>
+    <string name="title_login_page">Hello, are you ready to share your story??</string>
+    <string name="message_login_page">Enter your data first!\n</string>
+    <string name="logout">Logout</string>
+    <string name="message_main_page">Selamat Datang Di Story App</string>
+    <string name="desription">Desription</string>
+    <string name="description">Description</string>
+    <string name="write_a_description">Write a Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Coba Lagi</string>
+
+</resources>
